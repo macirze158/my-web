@@ -11,10 +11,10 @@
 }
 
 :root {
-    --color-background: #1f1f38;
-    --color-background-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-background: #2c2c30;
+    --color-background-variant: rgb(65, 65, 68);
+    --color-primary: #dacc08;
+    --color-primary-variant: #dad154;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
@@ -62,7 +62,8 @@ section {
     margin-top: 8rem;
 }
 
-section > h2, section > h5 {
+section > h2,
+section > h5 {
     text-align: center;
     color: var(--color-light);
 }
