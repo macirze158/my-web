@@ -5,7 +5,6 @@ import {SiAboutdotme} from 'react-icons/si'
 import {GiOpenBook} from 'react-icons/gi'
 import {AiFillProject} from 'react-icons/ai'
 import {AiFillMessage} from 'react-icons/ai'
-import { useState } from 'react'
 
 const Navigation = () => {
   return (
