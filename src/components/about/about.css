@@ -44,6 +44,7 @@
 .about__social:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
+    transform: scale(1.05);
 }
 
 .about__icon {
@@ -65,19 +66,21 @@
         gap: 0;
     }
 
-    .about_me {
+    .about__me {
         width: 50%;
         margin: 2rem auto 4rem;
     }
 
-    .about__content p {
+    .about__socials {
         margin: 1rem 0 1.5rem;
     }
+
+
 }
 
 /* \/ SMALL DEVICES \/ */
 @media screen and (max-width: 600px){
-    .about_me {
+    .about__me {
         width: 65%;
         margin: 0 auto 3rem;
     }
@@ -85,7 +88,6 @@
     .about__socials {
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
-        margin: 0 auto 3rem;
     }
 
     .about__content {
