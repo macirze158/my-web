@@ -23,7 +23,7 @@ header {
     gap: 1rem;
     position: absolute;
     left: 0;
-    bottom: 9rem;
+    top: calc(40%);
     transform: scale(1.5);
 }
 

@@ -38,6 +38,10 @@
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
     }
+
+    .project__item:hover {
+        border-color: transparent;
+    }
 }
 
 /* \/ SMALL DEVICES \/ */
@@ -45,5 +49,9 @@
     .projects__container {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    .project__item:hover {
+        border-color: transparent;
     }
 }

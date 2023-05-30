@@ -22,7 +22,7 @@ const About = () => {
         <div className="about__content">
         <p>
           Hi! My name is Maciej Rzeźnik, and I'm a 22-year-old IT student at the Silesian University of Technology.
-          With a strong determination and passion for technology, my ultimate goal is to become a skilled software developer.
+          With strong determination and passion for technology, my ultimate goal is to become a skilled software developer.
           As I'm near the completion of my studies, <br />I'm actively seeking job opportunities that will allow me to apply and expand my knowledge in the field.
           In my free time, I enjoy sports and photography, which help me find balance and express my creativity. 
         </p>
