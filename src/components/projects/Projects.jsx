@@ -7,7 +7,7 @@ import APP2 from '../../assets/app2.png'
 import APP3 from '../../assets/app3.png'
 import APP4 from '../../assets/app4.jpg'
 import APP5 from '../../assets/app5.png'
-import APP6 from '../../assets/app6.png'
+import APP6 from '../../assets/app6.1.png'
 
 const data = [
   {
@@ -48,8 +48,8 @@ const data = [
   {
     id: 6,
     image: APP6,
-    title: 'Charity Organization Webapp',
-    github: '',
+    title: 'Portfolio Website',
+    github: 'https://github.com/macirze158/my-web.git',
     youtube: ''
   }
 ]
